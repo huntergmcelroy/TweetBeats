@@ -18,20 +18,20 @@ The following dependencies are required to use TweetBeats. A script `install_dep
 - Python 2.7
 - Boto (http://boto.readthedocs.org/en/latest/)
 > You can use pip to install the latest released version of boto:
-	- pip install boto
+	- `pip install boto`
 
 - Tweepy (https://pythonhosted.org/tweepy/html/)
 > You can use pip to install the latest released version of Tweepy:
-	- pip install tweepy
+	- `pip install tweepy`
 
 - MIDIUtil (https://code.google.com/p/midiutil/)
 > Must be installed by downloading from the above website or from the MIDIUtil directory included in this repository:
-	- cd MIDIUtil-0.89
-python setup.py install
+	- `cd MIDIUtil-0.89`
+	- `python setup.py install`
 
 - Pygame (http://pygame.org/download.shtml)
 > Pygame can be downloaded from the above website or you can use pip to install the latest released version of Pygame:
-	- pip install pygame
+	- `pip install pygame`
 	
 How To Run TweetBeats
 ============
@@ -45,11 +45,11 @@ How To Run TweetBeats
 3) Run TweetBeats using one of the following commands:
 
 - user defined topic
->	- python tweetbeats.py song_title instrument_number topic
->	- Ex. python tweetbeats.py harry_potter 0 "harry potter"
+>	- `python tweetbeats.py song_title instrument_number topic`
+>	- Ex: `python tweetbeats.py harry_potter 0 "harry potter"`
 
 - random trending topic
->	- python tweetbeats.py song_title instrument_number
->	- Ex. python tweetbeats.py trending_topic_song 0
+>	- `python tweetbeats.py song_title instrument_number`
+>	- Ex: `python tweetbeats.py trending_topic_song 0`
 
 4) Wait for the AMT HITs generate and complete. Once the minimum number of HITs have completed, the generated song will play and the .mid file will be saved in the working directory. All unused HITs will be deleted.
