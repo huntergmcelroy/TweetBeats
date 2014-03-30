@@ -28,12 +28,11 @@ How To Run
 - Enter your Twitter API keys on lines 39-42 (in the TweetCollector function).
 
 3) Run TweetBeats using one of the following commands:
- Usage: 
 - user defined topic
-	python tweetbeats.py <song_title> <instrument_number> <topic>
-	Ex. python tweetbeats.py harry_potter 0 "harry potter"
+>	python tweetbeats.py <song_title> <instrument_number> <topic>
+>	(Ex. python tweetbeats.py harry_potter 0 "harry potter")
 
 - random trending topic
-	python tweetbeats.py <song_title> <instrument_number>
-	Ex. python tweetbeats.py trending_topic_song 0 
+>	python tweetbeats.py <song_title> <instrument_number>
+>	(Ex. python tweetbeats.py trending_topic_song 0)
 
