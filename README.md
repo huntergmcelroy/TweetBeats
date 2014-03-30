@@ -39,7 +39,7 @@ How To Run TweetBeats
 1) Ensure all dependencies are installed (see above).
 
 2) In tweetbeats.py:
-> - Enter your Amazon Mechanical Turk API keys on lines 33 and 34. Note that HITs will be created in the AMT sandbox by default. If you decide to run out of sandbox, switch HOST from 'mechanicalturk.amazonaws.com' to 'mechanicalturk.sandbox.amazonaws.com'. Note: Your account will be charged roughly $.50 - $1.00 per run of TweetBeats.
+> - Enter your Amazon Mechanical Turk API keys on lines 33 and 34. Note that HITs will be created in the AMT sandbox by default. If you decide to run out of sandbox, switch HOST from 'mechanicalturk.sandbox.amazonaws.com' to 'mechanicalturk.amazonaws.com'. Note: Your account will be charged roughly $.50 - $1.00 per run of TweetBeats.
 > - Enter your Twitter API keys on lines 41-44 (in the TweetCollector function).
 
 3) Run TweetBeats using one of the following commands:
