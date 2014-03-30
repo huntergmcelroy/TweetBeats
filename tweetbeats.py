@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------------------------
+# Name: TweetBeats 
 # 
+# Description: Create songs that reflect the mood of trending topics on Twitter using Amazon Mechanical Turk.
+#
 # Authors: Christopher Lowetz, Justin Martinez, Hunter McElroy
-# 
 #
 # Usage: 
 # -- user defined topic
