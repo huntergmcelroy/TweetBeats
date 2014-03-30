@@ -45,11 +45,11 @@ How To Run TweetBeats
 3) Run TweetBeats using one of the following commands:
 
 - user defined topic
->	python tweetbeats.py song_title instrument_number topic
->	---Ex. python tweetbeats.py harry_potter 0 "harry potter"
+>	- python tweetbeats.py song_title instrument_number topic
+>	- Ex. python tweetbeats.py harry_potter 0 "harry potter"
 
 - random trending topic
->	python tweetbeats.py song_title instrument_number
->	---Ex. python tweetbeats.py trending_topic_song 0
+>	- python tweetbeats.py song_title instrument_number
+>	- Ex. python tweetbeats.py trending_topic_song 0
 
 4) Wait for the AMT HITs generate and complete. Once the minimum number of HITs have completed, the generated song will play and the .mid file will be saved in the working directory. All unused HITs will be deleted.
