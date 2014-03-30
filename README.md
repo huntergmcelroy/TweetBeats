@@ -3,6 +3,8 @@ TweetBeats
 
 TweetBeats is a project for CSCE 438: Distributed Data-Intensive Systems @ Texas A&M University. Professor: James Caverlee
 
+Developers: Hunter McElroy, Justin Martinez, and Chris Lowetz
+
 Twitter is a community of users sharing their opinions and thoughts about a
 variety of topics. We have created a new way to "visualize" these opinions and
 thoughts by creating an audible representation of tweets.
