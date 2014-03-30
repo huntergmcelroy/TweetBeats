@@ -30,9 +30,7 @@ How To Run
 3) Run TweetBeats using one of the following commands:
 - user defined topic
 >	python tweetbeats.py <song_title> <instrument_number> <topic>
->	(Ex. python tweetbeats.py harry_potter 0 "harry potter")
 
 - random trending topic
 >	python tweetbeats.py <song_title> <instrument_number>
->	(Ex. python tweetbeats.py trending_topic_song 0)
 
